@@ -1,0 +1,34 @@
+/node_modules
+/public/hot
+/public/files
+/public/storage
+/public/assets/images/avatars
+/storage/*.key
+/storage/app/bg_image/*.jpg
+/storage/app/bg_image/*.jpeg
+/storage/app/bg_image/*.png
+/storage/app/files/*.jpg
+/storage/app/files/*.jpeg
+/storage/app/files/*.png
+/storage/fonts
+/config/tranzak/*
+/vendor
+/files
+/bg_image
+/public/assets/images/header.jpg
+/assets/images/header.jpg
+/assets/images/letter-head.jpeg
+.env
+.env.backup
+env
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+.DS_Store
+ public/.DS_Store
+ public/files/.DS_Store
+ storage/.DS_Store
